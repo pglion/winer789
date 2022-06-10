@@ -1,0 +1,79 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/4501850f8aa7caed3dcf4c24908e8c6e.jpg",
+    "size": "full",
+    "aspectRatio": "5:5",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": []
+          }
+        ]
+      }
+    ],
+    "backgroundColor": "#003366"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/yNCKWfa"
+        },
+        "height": "sm",
+        "color": "#000033"
+      },
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://slotjoker-bet89.com/"
+        },
+        "color": "#000033"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 200 !",
+            "align": "center",
+            "color": "#FFFFCC"
+          }
+        ],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#003366"
+  }
+}
